@@ -1,2 +1,2 @@
 # matching-game
-Code 201 Final Project
+Code 201 Final Group Project
